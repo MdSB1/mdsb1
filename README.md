@@ -1,12 +1,13 @@
 # Olá!! Eu sou a Mirella 🌻
 
 - 🌱 Front-End, UX/UI
-- 😄 Pronomes: Ela/Dela  <img align="right" alt="Gif" src="https://i.giphy.com/media/u98zWbe3jgJoI/200w.webp" />
+- 😄 Pronomes: Ela/Dela 
 - ⚡ Amante de gatos, comidas, cultura e tecnologia 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsb1&show_icons=true&theme=moltack)](https://github.com/mdsb1/github-readme-stats)
 ![Mirella's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsb1&show_icons=true&theme=moltack)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsb1&show_icons=true&theme=moltack)](https://github.com/mdsb1/github-readme-stats)
+ 
 
 ### Tecnologias que eu uso
 <div style="display: inline_block">
